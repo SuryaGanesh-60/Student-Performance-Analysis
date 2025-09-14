@@ -1,4 +1,5 @@
 📘 Study Performance Analysis
+
 📍 Overview
 
 This project focuses on analyzing the factors that influence student academic performance. It explores various attributes such as study time, attendance, parental involvement, socio-economic factors, and more. The goal is to uncover insights and build predictive models to better understand what contributes to student success or struggle in academic settings.
